@@ -1,4 +1,3 @@
-Brady lab tutorials: https://bradylab.ucsd.edu/ttt/
+[Brady lab tutorial](https://bradylab.ucsd.edu/ttt/)
 
-Guide from Martin Hebart: 
-https://docs.google.com/document/d/17HgAWTeI6qZl8vzXzXXjQFKFTDcrR_ggbuP0eYqK2EE/edit
+[Guide](https://docs.google.com/document/d/17HgAWTeI6qZl8vzXzXXjQFKFTDcrR_ggbuP0eYqK2EE/edit) from [Martin Hebart](http://martin-hebart.de/) 
